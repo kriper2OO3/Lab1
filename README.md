@@ -1,6 +1,6 @@
 # algo22
 
-    ```py
+```py
 def sort_lst(my_lst):
     for i in range(len(my_lst)):
         j = i - 1   # индекс на 1 меньше
@@ -9,7 +9,7 @@ def sort_lst(my_lst):
             my_lst[j + 1] = my_lst[j]
             j -= 1   
         my_lst[j + 1] = tmp
-    ```
+```
 
 
 
