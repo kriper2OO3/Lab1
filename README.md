@@ -4,7 +4,7 @@
 # функция по сортировке
 def sort_lst(my_lst):
     for i in range(len(my_lst)):
-        j = i - 1   # индекс на 1 меньше
+        j = i - 1
         tmp = my_lst[i]
         while my_lst[j] > tmp and j >= 0:
             my_lst[j + 1] = my_lst[j]
