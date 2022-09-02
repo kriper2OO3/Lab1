@@ -1,6 +1,7 @@
 # algo22
 
 ```py
+# функция по сортировке
 def sort_lst(my_lst):
     for i in range(len(my_lst)):
         j = i - 1   # индекс на 1 меньше
