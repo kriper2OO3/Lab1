@@ -1,6 +1,6 @@
 # Сортировка вставками
 
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+![image](https://github.com/kriper2OO3/algo22/blob/main/274px-Insertion-sort-example-300px.gif)
 
 ### Алгоритм сортировки:
 ```py
